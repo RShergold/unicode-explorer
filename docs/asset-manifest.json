@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/unicode-explorer/static/css/main.2f37dd73.css",
+    "main.js": "/unicode-explorer/static/js/main.809ef11c.js",
+    "static/js/787.4e669d1b.chunk.js": "/unicode-explorer/static/js/787.4e669d1b.chunk.js",
+    "index.html": "/unicode-explorer/index.html",
+    "main.2f37dd73.css.map": "/unicode-explorer/static/css/main.2f37dd73.css.map",
+    "main.809ef11c.js.map": "/unicode-explorer/static/js/main.809ef11c.js.map",
+    "787.4e669d1b.chunk.js.map": "/unicode-explorer/static/js/787.4e669d1b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2f37dd73.css",
+    "static/js/main.809ef11c.js"
+  ]
+}

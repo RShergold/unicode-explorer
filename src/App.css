@@ -2,10 +2,16 @@ td {
   position: relative;
   text-align: center;
   height: 2em;
+  width: 2em;
+}
+
+#U\+1F4A9,
+#U\+237C {
+  background-color: lightblue;
 }
 
 td:hover::before {
-  content: attr(data-tooltip);
+  content: attr(id);
   position: absolute;
   background-color: black;
   color: white;
@@ -33,4 +39,15 @@ td:hover::after {
 small {
   display: block;
   font-size: 8px;
+}
+
+.key {
+  position: fixed;
+  right: 2rem;
+  top: 2rem;
+  z-index: 1;
+}
+
+.key a {
+  display: block;
 }
